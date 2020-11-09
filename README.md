@@ -8,6 +8,8 @@
 
 `Jetpack` 是一个由多个库组成的套件，可帮助开发者遵循最佳做法，减少样板代码并编写可在各种 Android 版本和设备中一致运行的代码，让开发者精力集中编写重要的代码。
 
+官方网址：[https://developer.android.google.cn/jetpack](https://developer.android.google.cn/jetpack)
+
 ### 1.2 `Lifecycle`
 
 `Lifecycle`可以用来监听`Activity/Fragment`的生命周期。其有如下优势：
@@ -15,6 +17,8 @@
 * 解决代码入侵问题
 * 解决内存泄漏问题
 * 解决统一管理问题
+
+官方文档：[https://developer.android.google.cn/topic/libraries/architecture/lifecycle#java](https://developer.android.google.cn/topic/libraries/architecture/lifecycle#java)
 
 ## 二、实操
 
